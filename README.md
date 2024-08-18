@@ -11,7 +11,7 @@
 * Next Steps
 
 <div align="center">
-  <a href="https://github.com/jedh2/t-test">
+  <a href="https://github.com/jedh2/predicting_heart_disease">
     <img src="images/heart.jpg" alt="Logo" width="322" height="180">
   </a>
 </div>
@@ -40,7 +40,7 @@ https://www.kaggle.com/fedesoriano/heart-failure-prediction
 * Results were graded mainly on accuracy and recall
 
 <div align="center">
-  <a href="https://github.com/jedh2/t-test">
+  <a href="https://github.com/jedh2/predicting_heart_disease">
     <img src="images/results.jpg" alt="Logo" width="384" height="320">
   </a>
 </div>
