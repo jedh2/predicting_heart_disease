@@ -31,7 +31,20 @@ https://www.kaggle.com/fedesoriano/heart-failure-prediction
 - [x] Incorrect values were fixed
 - [x] Used one hot encoding for categorical features
 - [x] Explored histograms of features
-- [x] Evaluated correlation for quantitative features 
+
+<div align="center">
+  <a href="https://github.com/jedh2/predicting_heart_disease">
+    <img src="images/correlation.png" alt="Logo" width="1559" height="1219">
+  </a>
+</div>
+
+- [x] Evaluated correlation for quantitative features
+
+<div align="center">
+  <a href="https://github.com/jedh2/predicting_heart_disease">
+    <img src="images/hist_features.png" alt="Logo" width="1611" height="679">
+  </a>
+</div>
 
 ### Data Modeling :bar_chart:
 * Proceeded with all features for modeling
