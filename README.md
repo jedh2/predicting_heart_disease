@@ -33,16 +33,16 @@ https://www.kaggle.com/fedesoriano/heart-failure-prediction
 - [x] Explored histograms of features
 
 <div align="center">
-  <a href="https://github.com/jedh2/predicting_heart_disease">
-    <img src="images/correlation.png" alt="Logo" width="1559" height="1219">
+  <a href="https://github.com/jedh2/predicting_heart_disease/blob/main/images/correlation.png">
+    <img src="images/correlation.png" alt="Logo" width="623" height="487">
   </a>
 </div>
 
 - [x] Evaluated correlation for quantitative features
 
 <div align="center">
-  <a href="https://github.com/jedh2/predicting_heart_disease">
-    <img src="images/hist_features.png" alt="Logo" width="1611" height="679">
+  <a href="https://github.com/jedh2/predicting_heart_disease/blob/main/images/hist_features.png">
+    <img src="images/hist_features.png" alt="Logo" width="644" height="271">
   </a>
 </div>
 
@@ -53,7 +53,7 @@ https://www.kaggle.com/fedesoriano/heart-failure-prediction
 * Results were graded mainly on accuracy and recall
 
 <div align="center">
-  <a href="https://github.com/jedh2/predicting_heart_disease">
+  <a href="https://github.com/jedh2/predicting_heart_disease/blob/main/images/results.jpg">
     <img src="images/results.jpg" alt="Logo" width="384" height="320">
   </a>
 </div>
